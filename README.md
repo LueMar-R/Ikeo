@@ -19,4 +19,4 @@ Le projet IKEO a été cré par Aude, Jamal, Ludivine et Pereg. Il permet de gé
 
 ### PyQT
 
-![pyqt](images/pyqt.PNG)
+![pyqt](images/pyqt.png)
